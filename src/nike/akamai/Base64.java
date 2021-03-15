@@ -1,4 +1,4 @@
-/*
+package nike.akamai;/*
  * Copyright (C) 2010 The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,8 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
-package nike.laboratory;
 
 import android.util.Base64OutputStream;
 

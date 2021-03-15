@@ -1,4 +1,4 @@
-package nike.laboratory;
+package nike.akamai;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;

@@ -1,7 +1,7 @@
-package nike.laboratory;
 
-
+package nike.akamai;
 import org.apache.poi.ss.formula.functions.T;
+
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
@@ -292,7 +292,7 @@ public class AKAMAI {
     }
 
     public static void main(String[] args) throws Exception {
-        System.out.println(new AKAMAI().getSensorData(""));;
+        System.out.println(new AKAMAI().getSensorData(""));
     }
 
 

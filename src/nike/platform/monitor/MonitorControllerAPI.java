@@ -1,5 +1,6 @@
-package nike.platform.monitor;
+package monitor;
 
+import nike.platform.monitor.MonitorDao;
 import org.json.JSONArray;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,4 +1,4 @@
-package nike.laboratory;
+package nike.akamai;
 
 import android.os.SystemClock;
 import android.view.MotionEvent;
